@@ -13,7 +13,7 @@
 using namespace std;
 
 int main() {
-	int n;
+	int n = 0;
 
 	cout << "Podaj n: ";
 	cin >> n;
