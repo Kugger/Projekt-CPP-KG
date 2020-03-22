@@ -1,3 +1,11 @@
+
+/**
+  * \author: Kacper Gorgoń
+  * \date: 2020.03.21
+  * \brief: Funkcja do obliczania pola i obwodu kwadratu, prostokata, trojkata, kola i trapezu
+  * v0.01
+*/
+
 #include <iostream>
 #include <string>
 #include <ctype.h>
