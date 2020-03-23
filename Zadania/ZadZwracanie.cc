@@ -1,3 +1,11 @@
+/**
+  * \author: Kacper Gorgon
+  * \date: 2020.03.23
+  * \brief: Przeciazanie funkcji w c++
+  * v0.01
+*/
+
+
 #include <iostream>
 using namespace std;
 
