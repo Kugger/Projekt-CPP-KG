@@ -1,7 +1,7 @@
 /**
   * \author: Kacper Gorgon
   * \date: 2020.03.23
-  * \brief: Przeciazanie funkcji w c++
+  * \brief: Testowanie zwraca przez wartosc, referencje, wskaznik i tablice
   * v0.01
 */
 
