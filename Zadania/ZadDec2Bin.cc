@@ -1,3 +1,11 @@
+/**
+  * \author: Kacper Gorgon
+  * \date: 2020.04.19
+  * \brief: Zmienia liczby z systemu decymalnego na system binarny
+  * v0.01
+*/
+
+
 #include <iostream>
 using namespace std;
 
