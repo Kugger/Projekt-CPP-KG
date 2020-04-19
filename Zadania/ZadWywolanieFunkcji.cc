@@ -1,3 +1,11 @@
+/**
+  * \author: Kacper Gorgon
+  * \date: 2020.04.19
+  * \brief: Inny sposob wywolania funkcji
+  * v0.01
+*/
+
+
 #include <iostream>
 using namespace std;
 
